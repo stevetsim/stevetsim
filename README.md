@@ -16,3 +16,6 @@
 [![Skype Badge](https://img.shields.io/badge/-Steve%20Tsim-00AFF0?style=flat-square&logo=Skype&logoColor=white&link=https://join.skype.com/invite/qcLuUjfHpR2u)](https://join.skype.com/invite/qcLuUjfHpR2u)
 [![Email Badge](https://img.shields.io/badge/-stevetsim@pm.me-0B0D0E?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:stevetsim@pm.me)](mailto:stevetsim@pm.me)
 [![Website Badge](https://img.shields.io/badge/-stevetsim.github.io-03234B?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://stevetsim.github.io)](https://stevetsim.github.io)
+[![npm Badge](https://img.shields.io/badge/-stevetsim-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/~stevetsim)](https://www.npmjs.com/~stevetsim)
+
+
