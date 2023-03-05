@@ -8,7 +8,7 @@
 
 
 <h4 align="left">🧰 Languages and Tools:</h2>
-<p align="left">Node.js, Vue.js, WebSocket, WebRTC, gRPC, Kafka, Azure & AWS, Docker, MySQL, NoSQL, Git, RESTful API</p>
+<p align="left">Node.js, Vue.js, Azure & AWS, WebSocket, WebRTC, gRPC, Kafka, Docker, MySQL, NoSQL, Git, RESTful API, and CSS</p>
 
 <h4 align="left">:envelope: Let's get connected:</h2>
 
